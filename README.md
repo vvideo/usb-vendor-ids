@@ -18,7 +18,7 @@ console.log(vendor); // "ZyXEL Communications Corp"
 console.log(usbVendorIds);
 ```
 
-## License
+## [License](./LICENSE)
 MIT
 
 ## Links
