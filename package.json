@@ -1,0 +1,34 @@
+{
+  "name": "usb-vendor-ids",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "typings": "dist/index.d.ts",
+  "author": {
+    "name": "Denis Seleznev",
+    "email": "support@checkdevice.online",
+    "url": "https://github.com/vvideo"
+  },
+  "homepage": "https://github.com/vvideo/usb-vendor-ids",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vvideo/usb-vendor-ids.git"
+  },
+  "description": "USB vendor ids list",
+  "scripts": {
+    "test": "node ./test/index.mjs && node ./test/index.js",
+    "build": "node ./tools/build.mjs"
+  },
+  "keywords": [
+    "usb",
+    "usb vendor",
+    "usb ids",
+    "usb id"
+  ],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}
