@@ -16,6 +16,14 @@ console.log(vendor); // "ZyXEL Communications Corp"
 
 // Output list of USB vendors with ids
 console.log(usbVendorIds);
+// [
+//   ...
+//   [
+//     1414,
+//     "ZyXEL Communications Corp"
+//   ]
+// ]
+
 ```
 
 ## [License](./LICENSE)
