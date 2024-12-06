@@ -2,7 +2,7 @@
 [![NPM version](https://img.shields.io/npm/v/usb-vendor-ids.svg)](https://www.npmjs.com/package/usb-vendor-ids)
 [![NPM Downloads](https://img.shields.io/npm/dm/usb-vendor-ids.svg?style=flat)](https://www.npmjs.org/package/usb-vendor-ids)
 
-This package contains a [list of USB vendors](https://usb.org) with an id.
+This npm package contains a [list of USB vendors](https://usb.org) with an id.
 
 ## Install
 `npm i --save-dev usb-vendor-ids`
